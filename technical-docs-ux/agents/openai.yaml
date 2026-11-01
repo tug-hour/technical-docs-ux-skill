@@ -1,0 +1,6 @@
+interface:
+  display_name: "技術文書UX"
+  short_description: "説明・仕様・操作条件の配置と参照経路を選ぶ技術文書の構造設計"
+  default_prompt: "$technical-docs-ux を使い、この技術文書の情報配置と参照経路を設計してください。"
+policy:
+  allow_implicit_invocation: true
